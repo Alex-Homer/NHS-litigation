@@ -52,8 +52,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Salisbury Journal: [Medical negligence claims cost Salisbury NHS more than £30million](http://www.salisburyjournal.co.uk/news/15830302.More_than___30million_spent_on_medical_negligence_claims_in_Salisbury/)
 * Lynn News: [Millions paid over mistakes by NHS bodies serving West Norfolk, new figures show](https://www.lynnnews.co.uk/news/millions-paid-over-mistakes-by-nhs-bodies-serving-west-norfolk-new-figures-show-1-8331340)
 * Sunderland Echo: [NHS pays out £40million in medical damages claims in Sunderland](https://www.sunderlandecho.com/our-region/sunderland/nhs-pays-out-40million-in-medical-damages-claims-in-sunderland-1-8959400)
+* The Berwick Advertiser: [NHS payouts: The cost of medical negligence in the region](https://www.berwick-advertiser.co.uk/news/nhs-payouts-the-cost-of-medical-negligence-in-the-region-1-4662085)
+* Scotland: STV: [Scotland's NHS pays out £353m in medical negligence claims](https://stv.tv/news/politics/1406118-nhs-scotland-pays-out-193m-in-medical-negligence-claims/)
+* Mix 96: [Bucks' NHS Trust paid over £38million in 2012-17 for medical mistakes](https://www.mix96.co.uk/news/local/2477856/bucks-nhs-trust-paid-over-38million-in-2012-17-for-medical-mistakes/)
+* North-West Evening Mail: [WITH VIDEO: Millions paid in compensation for hospital mistakes](http://www.nwemail.co.uk/news/WITH-VIDEO-Millions-paid-in-compensation-for-hospital-mistakes-4a5988e2-7c67-45e5-afca-c2819835605e-ds)
 * BBC Wales Online: [Welsh NHS trusts paying millions of pounds for medical errors](http://www.bbc.co.uk/news/uk-wales-42695699)
-* The story was also covered by BBC Midlands Today, BBC Hereford & Worcester and BBC Radio Stoke
+* The story was also covered by BBC Midlands Today, BBC Cornwall, BBC Somerset, BBC Radio Nottingham, BBC Radio Gloucestershire, BBC Radio Lincolnshire, BBC Radio Merseyside, BBC Coventry & Warwickshire, BBC Hereford & Worcester and BBC Radio Stoke
 
 
 ## Get the data
