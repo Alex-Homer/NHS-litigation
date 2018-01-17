@@ -51,6 +51,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Lynn News: [Millions paid over mistakes by NHS bodies serving West Norfolk, new figures show](https://www.lynnnews.co.uk/news/millions-paid-over-mistakes-by-nhs-bodies-serving-west-norfolk-new-figures-show-1-8331340)
 * Sunderland Echo: [NHS pays out £40million in medical damages claims in Sunderland](https://www.sunderlandecho.com/our-region/sunderland/nhs-pays-out-40million-in-medical-damages-claims-in-sunderland-1-8959400)
 * BBC Wales Online: [Welsh NHS trusts paying millions of pounds for medical errors](http://www.bbc.co.uk/news/uk-wales-42695699)
+* The story was also covered by BBC Midlands Today, BBC Hereford & Worcester and BBC Radio Stoke
 
 
 ## Get the data
