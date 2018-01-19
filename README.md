@@ -25,6 +25,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Cambridge News: ['Patient care is top priority': NHS trusts respond after figures reveal scale of payouts](https://www.cambridge-news.co.uk/news/cambridge-news/nhs-trusts-response-compensation-patients-14164895)
 * Cambridge News: [Shocking cost of mistakes made by region's hospitals revealed](https://www.cambridge-news.co.uk/news/cambridge-news/mistakes-negligence-hospitals-nhs-compensation-14159721)
 * Peterborough Telegraph: [Peterborough City Hospital’s NHS trust pays out £30 million in negligence claims over five years](https://www.peterboroughtoday.co.uk/news/health/peterborough-city-hospital-s-nhs-trust-pays-out-30-million-in-negligence-claims-over-five-years-1-8331988)
+* Birmingham Eastside: [Heart of England Trust pays out £90m in compensation for mistakes in last five years](http://birminghameastside.com/2018/01/16/birmingham-trust-90m-mistakes/)
 * Redditch & Alcester Advertiser: [Medical negligence has cost Worcestershire Acute Hospitals NHS Trust £46 million in the last five years](http://www.redditchadvertiser.co.uk/news/15835367.Medical_negligence_has_cost_Worcestershire_Acute_Hospitals_NHS_Trust___46_million_in_the_last_five_years/)
 * Newham Recorder: [Barts Health NHS Trust runs up £118m medical blunder bill](http://www.newhamrecorder.co.uk/news/health/barts-health-nhs-trust-runs-up-118m-medical-blunder-bill-1-5356409)
 * Liverpool Echo: [Liverpool Women's Hospital pays out £12m a year for medical blunders](http://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-womens-hospital-pays-out-14159448)
@@ -46,7 +47,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Spire FM: [REVEALED: Cost of paying out for medical blunders at SDH](https://www.spirefm.co.uk/news/local-news/2477942/revealed-cost-of-paying-out-for-medical-blunders-at-sdh/)
 * Bournemouth: Daily Echo: [NHS trusts in Dorset pay more than £60m in claims after blunders](http://www.bournemouthecho.co.uk/newS/15829955.NHS_trusts_in_Dorset_pay_more_than___60m_in_claims_after_blunders/)
 * Northumberland Gazette: [NHS payouts: The cost of medical negligence in the region](https://www.northumberlandgazette.co.uk/news/nhs-payouts-the-cost-of-medical-negligence-in-the-region-1-8959339)
-* Sheffie;d: The Star: [Historic hospital blunders in Sheffield are still costing the NHS millions in compensation](https://www.thestar.co.uk/news/historic-hospital-blunders-in-sheffield-are-still-costing-the-nhs-millions-in-compensation-1-8960065)
+* Sheffield: The Star: [Historic hospital blunders in Sheffield are still costing the NHS millions in compensation](https://www.thestar.co.uk/news/historic-hospital-blunders-in-sheffield-are-still-costing-the-nhs-millions-in-compensation-1-8960065)
 * Northamptonshire Telegraph: [Medical ‘blunders’ by KGH result in payouts totalling almost £28m](https://www.northantstelegraph.co.uk/news/medical-blunders-by-kgh-result-in-payouts-totalling-almost-28m-1-8331133)
 * Brinkwire: [NUH pays out £100m in compensation for negligence claims in just five years](http://en.brinkwire.com/96849/nuh-pays-out-100m-in-compensation-for-negligence-claims-in-just-five-years/)
 * Salisbury Journal: [Medical negligence claims cost Salisbury NHS more than £30million](http://www.salisburyjournal.co.uk/news/15830302.More_than___30million_spent_on_medical_negligence_claims_in_Salisbury/)
@@ -56,8 +57,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Scotland: STV: [Scotland's NHS pays out £353m in medical negligence claims](https://stv.tv/news/politics/1406118-nhs-scotland-pays-out-193m-in-medical-negligence-claims/)
 * Mix 96: [Bucks' NHS Trust paid over £38million in 2012-17 for medical mistakes](https://www.mix96.co.uk/news/local/2477856/bucks-nhs-trust-paid-over-38million-in-2012-17-for-medical-mistakes/)
 * North-West Evening Mail: [WITH VIDEO: Millions paid in compensation for hospital mistakes](http://www.nwemail.co.uk/news/WITH-VIDEO-Millions-paid-in-compensation-for-hospital-mistakes-4a5988e2-7c67-45e5-afca-c2819835605e-ds)
+* Birmingham Mail: [Sick online trolls target parents of disabled boy after £6m NHS payout](https://www.birminghammail.co.uk/news/midlands-news/sick-online-trolls-target-parents-14173708)
 * BBC Wales Online: [Welsh NHS trusts paying millions of pounds for medical errors](http://www.bbc.co.uk/news/uk-wales-42695699)
-* The story was also covered by BBC Midlands Today, BBC Cornwall, BBC Somerset, BBC Radio Nottingham, BBC Radio Gloucestershire, BBC Radio Lincolnshire, BBC Radio Merseyside, BBC Coventry & Warwickshire, BBC Hereford & Worcester and BBC Radio Stoke
+* The story also led BBC East Midlands Today and was covered by BBC Midlands Today, BBC Cornwall, BBC Somerset, BBC Radio Nottingham, BBC Radio Gloucestershire, BBC Radio Lincolnshire, BBC Radio Merseyside, BBC Coventry & Warwickshire, BBC Hereford & Worcester and BBC Radio Stoke
 
 
 ## Get the data
