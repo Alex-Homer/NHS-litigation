@@ -58,6 +58,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Mix 96: [Bucks' NHS Trust paid over £38million in 2012-17 for medical mistakes](https://www.mix96.co.uk/news/local/2477856/bucks-nhs-trust-paid-over-38million-in-2012-17-for-medical-mistakes/)
 * North-West Evening Mail: [WITH VIDEO: Millions paid in compensation for hospital mistakes](http://www.nwemail.co.uk/news/WITH-VIDEO-Millions-paid-in-compensation-for-hospital-mistakes-4a5988e2-7c67-45e5-afca-c2819835605e-ds)
 * Birmingham Mail: [Sick online trolls target parents of disabled boy after £6m NHS payout](https://www.birminghammail.co.uk/news/midlands-news/sick-online-trolls-target-parents-14173708)
+* Teesside: Gazette Live: [Revealed: The millions of pounds Tees health trusts fork out in medical negligence claims](http://www.gazettelive.co.uk/news/teesside-news/revealed-millions-pounds-tees-health-14180163)
 * BBC Wales Online: [Welsh NHS trusts paying millions of pounds for medical errors](http://www.bbc.co.uk/news/uk-wales-42695699)
 * The story also led BBC East Midlands Today and was covered by BBC Midlands Today, BBC Cornwall, BBC Somerset, BBC Radio Nottingham, BBC Radio Gloucestershire, BBC Radio Lincolnshire, BBC Radio Merseyside, BBC Coventry & Warwickshire, BBC Hereford & Worcester and BBC Radio Stoke
 
