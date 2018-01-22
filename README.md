@@ -59,6 +59,16 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * North-West Evening Mail: [WITH VIDEO: Millions paid in compensation for hospital mistakes](http://www.nwemail.co.uk/news/WITH-VIDEO-Millions-paid-in-compensation-for-hospital-mistakes-4a5988e2-7c67-45e5-afca-c2819835605e-ds)
 * Birmingham Mail: [Sick online trolls target parents of disabled boy after £6m NHS payout](https://www.birminghammail.co.uk/news/midlands-news/sick-online-trolls-target-parents-14173708)
 * Teesside: Gazette Live: [Revealed: The millions of pounds Tees health trusts fork out in medical negligence claims](http://www.gazettelive.co.uk/news/teesside-news/revealed-millions-pounds-tees-health-14180163)
+* The Mirror: [Medical blunders cost taxpayer £70million in just five years at just one hospital trust](https://www.mirror.co.uk/news/uk-news/medical-blunders-cost-taxpayer-70million-11890957)
+* Romford Recorder: [Hospital trust runs up £80m medical blunder bill](http://www.romfordrecorder.co.uk/news/health/hospital-trust-runs-up-80m-medical-blunder-bill-1-5356411)
+* Lancaster Guardian: [£45m compensation bill for Morecambe Bay’s health trust](https://www.lancasterguardian.co.uk/news/45m-compensation-bill-for-morecambe-bay-s-health-trust-1-8964836)
+* Wandsworth Guardian: [St George’s Hospital NHS Foundation Trust paid out nearly £70 million of tax payers’ money for medical blunders](http://www.wandsworthguardian.co.uk/news/15866585.St_George___s_Hospital_NHS_Foundation_Trust_paid_out_nearly___70_million_of_tax_payers____money_for_medical_blunders_in_past_five_years/)
+* Get West London: [NHS trusts pay out £6.2bn in past five years due to medical blunders with one London site paying £123m alone](https://www.getwestlondon.co.uk/news/west-london-news/nhs-trusts-pay-out-62bn-14173284)
+* Get Surrey: [Mistakes made by NHS staff in Surrey result in payouts of £123 million in just five years](http://www.getsurrey.co.uk/news/surrey-news/mistakes-made-nhs-staff-surrey-14168349)
+* Rutland & Stamford Mercury: [Negligence claims cost NHS billions in compensation](https://www.stamfordmercury.co.uk/news/negligence-claims-cost-nhs-billions-in-compensation-1-8337309)
+* Bedford Today: [Bedford Hospital pays out £28m in negligence compensation in just 5 years](https://www.bedfordtoday.co.uk/news/bedford-hospital-pays-out-28m-in-negligence-compensation-in-just-5-years-1-8337515)
+* Gloucestershire Live: [Gloucestershire NHS still paying out millions to patients who suffered medical mistakes more than 20 years ago](http://www.gloucestershirelive.co.uk/news/health/gloucestershire-nhs-still-paying-out-1076088)
+* Nantwich News: [£25 million paid out in medical claims by Mid Cheshire Hospitals Trust in 5 years](http://thenantwichnews.co.uk/2018/01/17/25-million-paid-out-in-medical-claims-by-mid-cheshire-hospitals-trust-in-5-years/)
 * BBC Wales Online: [Welsh NHS trusts paying millions of pounds for medical errors](http://www.bbc.co.uk/news/uk-wales-42695699)
 * The story also led BBC East Midlands Today and was covered by BBC Midlands Today, BBC Cornwall, BBC Somerset, BBC Radio Nottingham, BBC Radio Gloucestershire, BBC Radio Lincolnshire, BBC Radio Merseyside, BBC Coventry & Warwickshire, BBC Hereford & Worcester and BBC Radio Stoke
 
