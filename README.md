@@ -69,6 +69,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Bedford Today: [Bedford Hospital pays out £28m in negligence compensation in just 5 years](https://www.bedfordtoday.co.uk/news/bedford-hospital-pays-out-28m-in-negligence-compensation-in-just-5-years-1-8337515)
 * Gloucestershire Live: [Gloucestershire NHS still paying out millions to patients who suffered medical mistakes more than 20 years ago](http://www.gloucestershirelive.co.uk/news/health/gloucestershire-nhs-still-paying-out-1076088)
 * Nantwich News: [£25 million paid out in medical claims by Mid Cheshire Hospitals Trust in 5 years](http://thenantwichnews.co.uk/2018/01/17/25-million-paid-out-in-medical-claims-by-mid-cheshire-hospitals-trust-in-5-years/)
+* The Falkirk Herald: [Medical negligence payments from NHS Forth Valley top £9.7m](https://www.falkirkherald.co.uk/news/health/medical-negligence-payments-from-nhs-forth-valley-top-9-7m-1-4680201)
 * BBC Wales Online: [Welsh NHS trusts paying millions of pounds for medical errors](http://www.bbc.co.uk/news/uk-wales-42695699)
 * The story also led BBC East Midlands Today and was covered by BBC Midlands Today, BBC Cornwall, BBC Somerset, BBC Radio Nottingham, BBC Radio Gloucestershire, BBC Radio Lincolnshire, BBC Radio Merseyside, BBC Coventry & Warwickshire, BBC Hereford & Worcester and BBC Radio Stoke
 
