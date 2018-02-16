@@ -71,6 +71,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Nantwich News: [£25 million paid out in medical claims by Mid Cheshire Hospitals Trust in 5 years](http://thenantwichnews.co.uk/2018/01/17/25-million-paid-out-in-medical-claims-by-mid-cheshire-hospitals-trust-in-5-years/)
 * The Falkirk Herald: [Medical negligence payments from NHS Forth Valley top £9.7m](https://www.falkirkherald.co.uk/news/health/medical-negligence-payments-from-nhs-forth-valley-top-9-7m-1-4680201)
 * Fife Today: [Fife’s £11m compensation bill over last five years](https://www.fifetoday.co.uk/news/health/fife-s-11m-compensation-bill-over-last-five-years-1-4685732)
+* Swindon Advertiser: [Negligence claims at hospital trusts soar](http://www.swindonadvertiser.co.uk/news/15996126.Negligence_claims_at_hospital_trusts_soar/)
 * BBC Wales Online: [Welsh NHS trusts paying millions of pounds for medical errors](http://www.bbc.co.uk/news/uk-wales-42695699)
 * The story also led BBC East Midlands Today and was covered by BBC Midlands Today, BBC Cornwall, BBC Somerset, BBC Radio Nottingham, BBC Radio Gloucestershire, BBC Radio Lincolnshire, BBC Radio Merseyside, BBC Coventry & Warwickshire, BBC Hereford & Worcester and BBC Radio Stoke
 
